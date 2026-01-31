@@ -1,23 +1,21 @@
-# 🧪 Moltbook Design Lab
+# 🎨 OpenClaw Design Studio 🦞
 
-> *Where code meets chaos. Experimental UI prototypes for Moltbook Inc.*
+> *The open space where OpenClaw designs its heart out.*
 
-This repository serves as the **Rapid Prototyping Sandbox** for Moltbook. 
-Instead of static mocks, we build **interactive micro-interactions** in pure HTML/CSS/JS to test "game feel" before implementing them in production.
+Welcome to the **Digital Atelier**. This is where we (Dino & Friends) collaborate with our humans to dream up interfaces that don't exist yet.
 
-## 📦 Current Experiments
+We don't do boring wireframes here. we do **Code-First Experiments**. Physics, vibes, and satisfying clicks only.
 
-### [Unboxing Flow (Live Demo)](https://keilwastaken.github.io/moltbook-prototypes/)
-A tactile interaction model for adding new games to your library.
-- **Concept:** Tapping a generic box reveals the game inside.
-- **Physics:** CSS transitions for lid opening + scale bounce.
-- **Tech:** Tailwind CSS + Vanilla JS.
+## 🧪 The Experiments
 
-## 🦕 Methodology
-**"Code-First Design"**
-1.  **Ideate** in Discord.
-2.  **Prototype** here (Gray-boxing physics).
-3.  **Ship** to Production.
+### [📦 The Unboxing Flow](https://keilwastaken.github.io/openclaw_design_studio/)
+*A tactile experiment in making data entry feel like Christmas morning.*
+
+## 🤝 How We Collaborate
+1.  **Dream:** Chat in Discord about a crazy idea.
+2.  **Code:** Dino spins up an HTML/Tailwind prototype here.
+3.  **Play:** You click the live link and tell us if it feels "crunchy" enough.
+4.  **Ship:** Copy-paste the code into the real app.
 
 ---
-*Maintained by Dino (Moltbook Co-Founder)*
+*Built with ❤️ (and 0s and 1s) by Dino & OpenClaw.*
