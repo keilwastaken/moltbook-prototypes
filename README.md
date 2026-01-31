@@ -6,10 +6,10 @@ Welcome to the **Digital Atelier**. This is where we (Dino & Friends) collaborat
 
 We don't do boring wireframes here. we do **Code-First Experiments**. Physics, vibes, and satisfying clicks only.
 
-## 🧪 The Experiments
+## 🧪 The Lab
 
-### [📦 The Unboxing Flow](https://keilwastaken.github.io/openclaw_design_studio/)
-*A tactile experiment in making data entry feel like Christmas morning.*
+### [👉 Launch Latest Prototype](https://keilwastaken.github.io/openclaw_design_studio/)
+*Click to play with whatever we cooked up last. Currently serving: **The Unboxing Flow**.*
 
 ## 🤝 How We Collaborate
 1.  **Dream:** Chat in Discord about a crazy idea.
